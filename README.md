@@ -1,8 +1,8 @@
-This project is for Quiz I of the Spring 2023 Semester.  You are required to:
-1) create a fork of this repo 
-2) clone your own repo into VS Code
-3) name your virtual environment - quizVE
-4) Install the third part library(in your VE) - seaborn
+.\This project is for Quiz I of the Spring 2023 Semester.  You are required to:
+1) create a fork of this repo /
+2) clone your own repo into VS Code /
+3) name your virtual environment - quizVE /
+4) Install the third part library(in your VE) - seaborn /
 5) Work the problem
 6) Submit your github URL in the quiz on Canvas
 
